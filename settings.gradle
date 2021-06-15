@@ -1,0 +1,4 @@
+rootProject.name = 'functional-programming'
+include 'task1-dictionary'
+include 'task2-cadastralAssistant'
+
